@@ -7,7 +7,6 @@
 
 'use strict';
 var express = require('express');
-var nodemailer = require('nodemailer');
 var router = express.Router();
 
 /* GET users listing. */
