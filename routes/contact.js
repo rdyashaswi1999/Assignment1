@@ -1,4 +1,11 @@
-﻿'use strict';
+﻿/**
+ * File Name:- contact.js
+ * Author's Name:- Yashaswi
+ * Website Name:- Assignment1
+ * Website Description:- .js file for contact.pug which provides the contact information.
+ */
+
+'use strict';
 var express = require('express');
 var router = express.Router();
 

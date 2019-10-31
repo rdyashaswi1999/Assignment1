@@ -1,4 +1,11 @@
-﻿'use strict';
+﻿/**
+ * File Name:- index.js
+ * Author's Name:- Yashaswi
+ * Website Name:- Assignment1
+ * Website Description:- .js file for index.pug
+ */
+
+'use strict';
 var express = require('express');
 var router = express.Router();
 
