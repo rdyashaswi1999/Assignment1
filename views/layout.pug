@@ -2,5 +2,17 @@
 html
   include header.pug
   body
-    block content
-    include footer.pug
+          .container1
+            ul 
+                li 
+                    a(href='/home') Home
+                li 
+                    a(href='/projects') Projects
+                li 
+                    a(href='/services') Services
+                li 
+                    a(href='/about') About
+                li 
+                    a(href='/contact') Contact
+            block content
+            include footer.pug
